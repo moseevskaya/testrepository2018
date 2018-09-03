@@ -1,4 +1,4 @@
 # testrepository2018
-A test repository
-Here's some text for this repository.
-Aaaand to commit?..
+A test repository \n
+Here's some text for this repository. \n
+Aaaand to commit?.. \n
